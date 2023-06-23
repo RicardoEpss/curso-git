@@ -1,8 +1,8 @@
 console.log("Hola");
-var a = 10;
+var a = 1010101;
 
 
-console.log("Prueba234324234")
+console.log("Prueba23432423412")
 
 console.log("Prueba2")
 console.log("Prueba3")
